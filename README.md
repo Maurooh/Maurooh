@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @Maurooh fala galera, curto fazer tudo to aqui pra aprender
+- 👋 Hi, I’m @Maurooh
