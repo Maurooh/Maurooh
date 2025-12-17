@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Mauro Souza
 
-**`Desenvolvedor Iniciante`**
+**`Desenvolvedor`**
 
-Meu nome é Mauro Souza, tenho 19 anos e sou natural de Campinas, São Paulo. Desde o ensino médio, meu foco tem sido explorar o universo do desenvolvimento e da inovação. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIP.
+Meu nome é Mauro Souza, tenho 21 anos e sou natural de Campinas, São Paulo. Desenvolvedor de Sistemas e Sites | Node.js | APIs | Bots para Discord | Automações
 
 
 ---
