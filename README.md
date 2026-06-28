@@ -57,5 +57,5 @@ Atuo no desenvolvimento de sistemas, aplicações web, automações e integraç�
 
 ## 📬 Contato
 
-- 💼 [Portfólio](https://maurooh.github.io/portfolio)
+- 💼 [Portfólio](https://maurooh.github.io/Portfolio)
 - 📧 mauroh1221@gmail.com
