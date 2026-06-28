@@ -33,7 +33,7 @@ Atuo no desenvolvimento de sistemas, aplicações web, automações e integraç�
 
 ## 📌 Projeto em Destaque
 
-### [Find Your Own](https://github.com/Maurooh/find-your-own)
+### [Find Your Own](https://github.com/Maurooh/FindYourOwn)
 > App de gamificação de desenvolvimento pessoal — evolua completando missões diárias e semanais, ganhe XP, suba de nível e desenvolva atributos como Saúde, Conhecimento, Disciplina, Social e Finanças.
 
 `Next.js` `TypeScript` `Supabase` `Tailwind CSS` `shadcn/ui`
